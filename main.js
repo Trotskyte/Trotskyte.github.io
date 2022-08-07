@@ -9,7 +9,7 @@ minWidth: 200.00,
 scale: 1.00,
 scaleMobile: 1.00,
 backgroundAlpha: 0.0,
-quantity: 4.00,
+quantity: 3.00,
 speedlimit: 3.00,
 birdSize: 2.00,
 })
