@@ -18,7 +18,7 @@ header > img{
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    border: 1px solid #6a0dad;
+    border: 1px solid #000;
     object-fit: cover;
     box-shadow: rgb(28 32 93/ 24%) 0px 2px 8px 0px;
 }
